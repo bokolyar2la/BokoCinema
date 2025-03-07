@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="26 65 500 100" width="400" height="150">
+  <!-- Background -->
+
+  <!-- Larger Circle with film holes -->
+  <!-- Film Reel Circle -->
+  <circle cx="75" cy="75" r="45" fill="#d43d3d" />
+  <circle cx="75" cy="75" r="25" fill="#ffffff" />
+  <circle cx="75" cy="60" r="7" fill="#d43d3d" />
+  <circle cx="60" cy="75" r="7" fill="#d43d3d" />
+  <circle cx="90" cy="75" r="7" fill="#d43d3d" />
+  <circle cx="75" cy="90" r="7" fill="#d43d3d" />
+    <rect x="70" y="110" width="388" height="10" fill="#d43d3d" />
+
+  <!-- Larger Text -->
+  <text x="135" y="90" font-family="'Arial', sans-serif" font-weight="bold" font-size="60" fill="#ffffff">BokoMovie</text>
+
+</svg>
