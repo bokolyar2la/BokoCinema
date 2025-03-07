@@ -28,7 +28,7 @@ BokoMovie is a web application for browsing information about movies, actors, an
 ### 1️⃣ Install dependencies
 - yarn install
 - Run in development mode
-- **yarn dev
+- yarn dev
 
 ### 2️⃣ Build the project
 - yarn build
